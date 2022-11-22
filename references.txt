@@ -1,0 +1,16 @@
+Development
+[1] https://github.com/ndrplz/ConvLSTM_pytorch
+[2] https://www.crcv.ucf.edu/data/UCF101.php
+[3] https://sladewinter.medium.com/video-frame-prediction-using-convlstm-network-in-pytorch-b5210a6ce582
+[4] https://bleedai.com/human-activity-recognition-using-tensorflow-cnn-lstm/
+[5] https://www.youtube.com/watch?v=QmtSkq3DYko
+[6] https://arxiv.org/abs/1506.04214
+[7] https://www.youtube.com/watch?v=doDUihpj6ro
+[8] https://towardsdatascience.com/from-a-lstm-cell-to-a-multilayer-lstm-network-with-pytorch-2899eb5696f3
+[9] https://pytorch.org/
+[10] https://www.crcv.ucf.edu/data/UCF_YouTube_Action.php
+[11] https://arxiv.org/pdf/1706.08276.pdf
+[12] https://arxiv.org/pdf/1707.02356.pdf
+[13] https://arxiv.org/pdf/2104.13586.pdf
+[14] https://scholarworks.calstate.edu/downloads/x920g2619
+[15] https://medium.com/geekculture/action-recognition-using-pytorch-geometric-d50ca8de0f6e
